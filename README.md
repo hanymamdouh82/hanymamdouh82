@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hany Mamdouh @hanymamdouh82
-- 👀 I’m holding CEO at **Aten Technologies for Enterprise Content** (AtenTEC) and CTO at **AtenTEC Business Development**
-- 🌱 Beside my managerial career I’m a developer with more than 20 years of experience and IT professional.
+- 👀 I’m holding CEO at **Aten Technologies for Enterprise Content** (AtenTEC) and CEO at **AtenTEC Business Development**
+- 🌱 Beside my managerial career I’m a developer with more than 25 years of experience and IT professional.
 - 📫 You can reach me on hany@atentec.com
 
 <!---
